@@ -10,8 +10,6 @@
 
 The resurgence of geopolitical conflict has reignited the long-standing debate on the economic consequences of defense expenditure. This thesis moves beyond traditional linear models to re-evaluate the defense-growth nexus using an integrated data science approach. Employing a Random Forest model, complemented by a Multinomial Logistic Regression, this study analyzes a longitudinal dataset of 40 NATO and allied nations (1949-2022) to classify countries into Low, Medium, and High economic growth regimes. The findings reveal a clear hierarchy of influence, where core economic fundamentals—namely Capital Formation and Educational Attainment—are the primary drivers of economic growth. Military spending emerges as a significant but secondary predictor, with a complex, non-linear impact. Crucially, the analysis identifies a significant interaction effect: the negative economic impact of military spending is substantially mitigated by high levels of educational attainment, underscoring the role of human capital as a critical "absorptive capacity." The research concludes that the "guns vs. butter" trade-off is not fixed but is conditional, suggesting that sustainable security policy must be integrated with long-term investments in human and physical capital.
 
-[**Read the Full Thesis (PDF)**]
-
 ---
 
 ### Key Findings
@@ -48,7 +46,7 @@ This project follows a comprehensive data science workflow:
 
 ```
 ├── Defense_Growth_Analysis.ipynb    # The main Jupyter Notebook with all code and analysis.
-├── Tykhyi_Illia_Thesis_EKS1.pdf     # The full text of the bachelor's thesis.
+├── EE-EK-S1-LIC-227322.pdf     # The full text of the bachelor's thesis.
 ├── requirements.txt               # A list of Python libraries needed to run the notebook.
 ├── Data/                            # Contains all raw CSV data files.
 └── Visualizations/                  # Contains key plots and figures.
